@@ -1,0 +1,78 @@
+.arriba {
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.top-section {
+    background-color: #1F2937;
+    
+}
+
+.header {
+    display: flex;
+    margin-bottom: 90px;
+    justify-content: space-between;
+    color: aliceblue;
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.links {
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.top-content {
+    display: flex;
+    color: aliceblue;
+    padding-bottom: 130px;
+}
+.top-h1 {
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+.top-p {
+    font-size: 18px;
+}
+.imagen-top {
+    width: 700px;
+    height: 250px;
+}
+
+.button-top {
+    background-color: #3882F8;
+    border: none;
+    color: white;
+    padding: 8px 28px;
+    font-size: 20px;
+    border-radius: 12px;
+}
+
+.random-info-section {
+    margin-right:  250px;
+    margin-left: 250px;
+}
+
+.imagenes {
+    display: flex;
+    gap: 30px;
+
+}
+.info-h2 {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+    color: #1F2937;
+    margin: 50px;
+}
+.vieja {
+    width: 150px;
+    height: 150px;
+}
+
+.vieja-p {
+    text-align: center;
+}
